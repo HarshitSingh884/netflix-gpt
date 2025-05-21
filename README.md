@@ -1,10 +1,15 @@
 # Netflix GPT
 - Vite
 - Configured Tailwind CSS
+- Header
+- Login Form
+- Signup Form
+       - Formik Library for form
+
 
  
 
- #Features
+ # Features
 
  - Login/Sign UP Page
    - Sign In / Sign Up Form
